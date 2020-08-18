@@ -5,7 +5,7 @@
     :copyright: © 2018 Grey Li
     :license: MIT, see LICENSE for more details.
 """
-import click
+import  click
 from flask import Flask
 
 app = Flask(__name__)
